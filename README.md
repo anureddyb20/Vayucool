@@ -1,0 +1,88 @@
+# 🛰️ Vayucool — Urban Thermal Experience
+
+![Vayucool Banner](assets/banner.png)
+
+## 🏢 Overview
+**Vayucool** is a cutting-edge, interactive web application designed to visualize and simulate the **Urban Heat Island (UHI)** effect. Using advanced thermodynamics and real-city data, Vayucool allows urban planners, researchers, and citizens to understand how building density, greenery, and airflow impact city temperatures.
+
+Our mission is to turn complex science into an intuitive, cinematic experience that inspires cooler, more sustainable urban design.
+
+---
+
+## 🚀 Key Features
+
+### 1. 🌡️ Interactive Thermodynamics Simulation
+Explore the three primary modes of heat transfer in cities:
+- **Radiation**: See how sunlight is absorbed by concrete and asphalt.
+- **Conduction**: Visualize heat storage and transfer through solid urban materials.
+- **Convection**: Observe how restricted airflow traps heat in dense city grids.
+
+### 2. 🗺️ Real-Time Map Visualization
+Integrated with **Leaflet.js**, our map dashboard provides a 24-hour heat profile, comparing urban temperatures with surrounding rural areas in real-time.
+
+### 3. 🏙️ Urban Planning Simulator
+Tweak city parameters and watch the temperature drop:
+- **Greenery Coverage**: Add parks and vertical forests.
+- **Building Density**: Adjust the gap between structures.
+- **Surface Reflectivity**: Implement cool roofs and reflective materials.
+- **Wind Corridors**: Optimize airflow to dissipate heat.
+
+### 4. 📊 Data-Driven Insights
+Dynamic 24-hour charts (powered by **Chart.js**) show the "Heat Gap" between cities and nature, helping users identify peak thermal stress hours.
+
+---
+
+## 🛠️ Technology Stack
+
+| Layer | Technology |
+| :--- | :--- |
+| **Frontend** | Vite, Vanilla JavaScript |
+| **3D Rendering** | Three.js |
+| **Animations** | GSAP (GreenSock) |
+| **Maps** | Leaflet.js |
+| **Data Viz** | Chart.js |
+| **Backend** | Node.js, Express |
+| **Styling** | Custom CSS3 (PostCSS) |
+
+---
+
+## 👥 Meet the Team: **Elites**
+We are a team of passionate developers and environmental enthusiasts dedicated to building tech for a cooler planet.
+
+- **Team Name**: Elites
+- **Project**: Vayucool (Urban Thermal Project)
+
+---
+
+## 🛠️ Installation & Setup
+
+### Prerequisites
+- Node.js (v18+)
+- npm
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/anureddyb20/Vayucool.git
+```
+
+### 2. Install Dependencies
+```bash
+npm run install:all
+```
+
+### 3. Run Development Server
+```bash
+npm run dev
+```
+The application will be available at:
+- **Frontend**: `http://localhost:5173`
+- **Backend API**: `http://localhost:3001`
+
+---
+
+## 🌍 Impact
+Urban Heat Islands affect over **1 billion people** globally, increasing energy consumption and health risks. **Vayucool** aims to reduce this intensity by up to **7°C** through informed urban planning and public awareness.
+
+---
+
+Developed with ❤️ by **Elites**
