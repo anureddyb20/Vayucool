@@ -94,11 +94,23 @@ The application will be available at:
 
 ---
 
+## 🎯 Manual Usage
+
+If you'd like to run the demo and explore the features:
+
+1. **Environment Setup**: Copy `.env` details from `server/.env.example` to `server/.env`.
+2. **Launch Hub**: Run `npm run dev` to start both the Frontend and Backend services concurrently.
+3. **Explore the Platform**:
+    - **Interactive Story**: `http://localhost:5173`
+    - **Urban Simulator**: `http://localhost:5173/simulator.html`
+
+---
+
 ## 🌍 Impact
 Urban Heat Islands affect over **1 billion people** globally, increasing energy consumption and health risks. **Vayucool** aims to reduce this intensity by up to **7°C** through informed urban planning and public awareness.
 
 ---
 
 <p align="center">
-  Developed with passion for a Cooler & Sustainable Future by Team Elites
+  Developed with passion for a Cooler & Sustainable Future
 </p>
