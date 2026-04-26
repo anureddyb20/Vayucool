@@ -42,7 +42,7 @@ Dynamic 24-hour charts (powered by **Chart.js**) show the "Heat Gap" between cit
 
 ---
 
-## 🛠️ Technology Stack
+## 🛠️ Tech Stack
 
 | Layer | Technology |
 | :--- | :--- |
