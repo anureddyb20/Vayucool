@@ -12,6 +12,8 @@
 </p>
 
 ---
+
+## 🏢 Overview
 **Vayucool** is a cutting-edge, interactive web application designed to visualize and simulate the **Urban Heat Island (UHI)** effect. Using advanced thermodynamics and real-city data, Vayucool allows urban planners, researchers, and citizens to understand how building density, greenery, and airflow impact city temperatures.
 
 Our mission is to turn complex science into an intuitive, cinematic experience that inspires cooler, more sustainable urban design.
