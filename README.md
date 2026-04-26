@@ -47,13 +47,13 @@ Dynamic 24-hour charts (powered by **Chart.js**) show the "Heat Gap" between cit
 
 | Layer | Technology |
 | :--- | :--- |
-| **Frontend** | Vite, Vanilla JavaScript |
-| **3D Rendering** | Three.js |
-| **Animations** | GSAP (GreenSock) |
-| **Maps** | Leaflet.js |
-| **Data Viz** | Chart.js |
-| **Backend** | Node.js, Express |
-| **Styling** | Custom CSS3 (PostCSS) |
+| **🌐 Frontend** | ⚡ Vite, 🍦 Vanilla JavaScript |
+| **🧊 3D Rendering** | 📐 Three.js |
+| **🎬 Animations** | 🟢 GSAP (GreenSock) |
+| **🗺️ Maps** | 📍 Leaflet.js |
+| **📊 Data Viz** | 📈 Chart.js |
+| **⚙️ Backend** | 🟢 Node.js, 🚂 Express |
+| **🎨 Styling** | 💅 Custom CSS3 (PostCSS) |
 
 ---
 
