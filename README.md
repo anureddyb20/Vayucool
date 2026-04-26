@@ -1,8 +1,21 @@
-# 🛰️ Vayucool — Urban Thermal Experience
+<p align="center">
+  <img src="assets/logo.png" width="120" alt="Vayucool Logo">
+</p>
 
-![Vayucool Banner](assets/banner.png)
+<h1 align="center">Vayucool</h1>
 
-## 🏢 Overview
+<p align="center">
+  <em>The Interactive Urban Thermal Experience</em>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Release-v1.0.0-yellow" alt="Release">
+  <img src="https://img.shields.io/badge/Status-Live-green" alt="Status">
+  <img src="https://img.shields.io/badge/UI-Modern_Glass-blue" alt="UI">
+  <img src="https://img.shields.io/badge/Team-Elites-orange" alt="Team">
+</p>
+
+---
 **Vayucool** is a cutting-edge, interactive web application designed to visualize and simulate the **Urban Heat Island (UHI)** effect. Using advanced thermodynamics and real-city data, Vayucool allows urban planners, researchers, and citizens to understand how building density, greenery, and airflow impact city temperatures.
 
 Our mission is to turn complex science into an intuitive, cinematic experience that inspires cooler, more sustainable urban design.
