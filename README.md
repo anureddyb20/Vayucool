@@ -99,4 +99,6 @@ Urban Heat Islands affect over **1 billion people** globally, increasing energy 
 
 ---
 
-Developed with ❤️ for a Cooler & Sustainable Future
+<p align="center">
+  Developed with passion for a Cooler & Sustainable Future
+</p>
