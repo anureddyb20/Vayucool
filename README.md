@@ -8,7 +8,6 @@
   <img src="https://img.shields.io/badge/Release-v1.0.0-yellow" alt="Release">
   <img src="https://img.shields.io/badge/Status-Live-green" alt="Status">
   <img src="https://img.shields.io/badge/UI-Modern_Glass-blue" alt="UI">
-  <img src="https://img.shields.io/badge/Team-Elites-orange" alt="Team">
 </p>
 
 ---
@@ -57,14 +56,6 @@ Dynamic 24-hour charts (powered by **Chart.js**) show the "Heat Gap" between cit
 
 ---
 
-## 👥 Meet the Team: **Elites**
-We are a team of passionate developers and environmental enthusiasts dedicated to building tech for a cooler planet.
-
-- **Team Name**: Elites
-- **Project**: Vayucool (Urban Thermal Project)
-
----
-
 ## 🛠️ Installation & Setup
 
 ### Prerequisites
@@ -96,4 +87,4 @@ Urban Heat Islands affect over **1 billion people** globally, increasing energy 
 
 ---
 
-Developed with ❤️ by **Elites**
+Developed with ❤️
