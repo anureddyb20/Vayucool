@@ -56,6 +56,16 @@ Dynamic 24-hour charts (powered by **Chart.js**) show the "Heat Gap" between cit
 
 ---
 
+## 🏗️ Project Architecture
+```mermaid
+graph TD
+    User[User Interaction] --> FE[Frontend: Vite & JS]
+    FE --> Viz[Viz: Three.js & Leaflet]
+    FE <--> BE[Backend: Node & Express]
+```
+
+---
+
 ## 🛠️ Installation & Setup
 
 ### Prerequisites
